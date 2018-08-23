@@ -18,9 +18,7 @@
 
 4、下载过程中如果发现目录已经存在不会下载该目录中的文件，会直接跳过，如果下载未完成由于中途报错请删除该文件夹重新运行脚本
 
-### *License*
-
-NetEasePhotoBak is released under the [Apache 2.0 license](license.txt).
+## License
 
 ```
 Copyright 2018 Loofer, Inc.
